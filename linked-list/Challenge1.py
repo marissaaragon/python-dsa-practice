@@ -1,5 +1,5 @@
 # Instructions
-#Write a method to find and return the middle node in the Linked List WITHOUT using the length attribute.
+# Write a method to find and return the middle node in the Linked List WITHOUT using the length attribute.
 # Two pointers
 class Node:
     def __init__(self, value):
